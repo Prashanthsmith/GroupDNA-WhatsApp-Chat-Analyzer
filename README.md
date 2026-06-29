@@ -44,12 +44,6 @@ Displays:
 
 ---
 
-## 📁 Dataset
-
-This project works with an exported WhatsApp chat in `.txt` format.
-
----
-
 ## 👨‍💻 Author
 
-Steven Smith
+Prashanth P
